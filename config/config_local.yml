@@ -1,0 +1,9 @@
+environment: local
+api:
+  port: 5000
+db:
+  username: root
+  password: dipak
+  database: twitter_clone
+  host: localhost
+  wipe: true

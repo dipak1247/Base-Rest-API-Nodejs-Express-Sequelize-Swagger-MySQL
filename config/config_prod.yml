@@ -1,0 +1,10 @@
+environment: prod
+api:
+  port: 80
+db:
+  username: root
+  password: dipak
+  database: twitter_clone
+  host: db.prod.example.org
+  wipe: false
+  logging: false

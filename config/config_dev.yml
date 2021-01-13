@@ -1,0 +1,10 @@
+environment: dev
+api:
+  port: 80
+db:
+  username: root
+  password: dipak
+  database: twitter_clone
+  host: db.dev.example.org
+  wipe: true
+  logging: false
